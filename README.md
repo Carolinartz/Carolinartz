@@ -1,1 +1,6 @@
-# About-me-
+##  I'm Carolina ⭐️
+
+## Skills 🔧
+
+## Technologies 🤖
+
