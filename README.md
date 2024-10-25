@@ -10,6 +10,6 @@ He partcipido en varios proyectos que me han permito fortalecer mis habilidades 
 ![GitHub](.images/github.png)
 ![HTML](.images/html.png)
 ![JavaScript](.images/js.png)
-![CSS](.images/css.png)
+![CSS](images/css.png)
 
 
