@@ -7,7 +7,7 @@ He partcipido en varios proyectos que me han permito fortalecer mis habilidades 
 ## Technologies 🤖
 <div style="display: inline-block; text-align: center;">
 <img src="images/git.png" alt="Git" width="10%" height="10%" title="Git"/>
-<img src="images/github.png" alt="GitHub" width="10%" height="10%" title="GitHub"/>
+<img src="images/github.png" alt="GitHub" width="11%" height="11%" title="GitHub"/>
 <img src="images/html.png" alt="html" width="10%" height="10%" title="html"/>
 <img src="images/js.png" alt="Javascript" width="10%" height="10%" title="Javascript"/>
 <img src="images/css.png" alt="CSS" width="7%" height="7%" title="CSS"/>
