@@ -5,11 +5,12 @@ Desarrolladora web full stack. Mi background en biotecnología, medicina y estad
 He partcipido en varios proyectos que me han permito fortalecer mis habilidades para la vida, la comunicación acertiva y ser autodidacta esta+an en mi díá a día, soy amante de la ciencia y tecnología lo refuerza mi intución y responsabilidad.
 
 ## Technologies 🤖
+<img src="images/git.png" alt="Git" width="300" height="200"/>
 
-![Git](.images/git.png)
-![GitHub](.images/github.png)
-![HTML](.images/html.png)
-![JavaScript](.images/js.png)
+![Git](images/git.png)
+![GitHub](images/github.png)
+![HTML](images/html.png)
+![JavaScript](images/js.png)
 ![CSS](images/css.png)
 
 
