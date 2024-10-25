@@ -6,5 +6,10 @@ He partcipido en varios proyectos que me han permito fortalecer mis habilidades 
 
 ## Technologies 🤖
 
-![Git](./images/pngegg (2).png)
+![Git](.images/git.png)
+![GitHub](.images/github.png)
+![HTML](.images/html.png)
+![JavaScript](.images/js.png)
+![CSS](.images/css.png)
+
 
