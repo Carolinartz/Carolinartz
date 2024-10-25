@@ -11,7 +11,7 @@ He partcipido en varios proyectos que me han permito fortalecer mis habilidades 
 <img src="images/html.png" alt="html" width="10%" height="10%" title="html"/>
 <img src="images/js.png" alt="Javascript" width="10%" height="10%" title="Javascript"/>
 <img src="images/css.png" alt="CSS" width="6.5%" height="6.5%" title="CSS"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 <img src="images/sql.png" alt="SQL" width="9%" height="9%" title="SQL"/>
 <img src="images/python.png" alt="PYTHON" width="10%" height="10%" title="PYTHON"/>
   
