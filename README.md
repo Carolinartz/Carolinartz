@@ -10,7 +10,7 @@ He partcipido en varios proyectos que me han permito fortalecer mis habilidades 
 <img src="images/github.png" alt="GitHub" width="10%" height="10%" title="GitHub"/>
 <img src="images/html.png" alt="html" width="10%" height="10%" title="html"/>
 <img src="images/js.png" alt="Javascript" width="10%" height="10%" title="Javascript"/>
-<img src="images/css.png" alt="CSS" width="10%" height="10%" title="CSS"/>
+<img src="images/css.png" alt="CSS" width="8%" height="8%" title="CSS"/>
 </div>
 
 
