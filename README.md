@@ -6,11 +6,10 @@ He partcipido en varios proyectos que me han permito fortalecer mis habilidades 
 
 ## Technologies 🤖
 <img src="images/git.png" alt="Git" width="10%" height="10%" title="Git"/>
+<img src="images/github.png" alt="GitHub" width="10%" height="10%" title="GitHub"/>
+<img src="images/html.png" alt="html" width="10%" height="10%" title="html"/>
+<img src="images/js.png" alt="Javascript" width="10%" height="10%" title="Javascript"/>
+<img src="images/css.png" alt="CSS" width="10%" height="10%" title="CSS"/>
 
-![Git](images/git.png)
-![GitHub](images/github.png)
-![HTML](images/html.png)
-![JavaScript](images/js.png)
-![CSS](images/css.png)
 
 
